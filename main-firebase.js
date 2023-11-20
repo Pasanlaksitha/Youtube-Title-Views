@@ -1,5 +1,5 @@
-var firebaseUrl = "https://title-views-b2c2f-default-rtdb.asia-southeast1.firebasedatabase.app/";
-var secret = "auUKsC4qmCP5CdapRHDew1kV3OAMQySnbNn9z8CG";
+var firebaseUrl = "";
+var secret = "";
 var base = FirebaseApp.getDatabaseByUrl(firebaseUrl, secret);
 
 function main() {
